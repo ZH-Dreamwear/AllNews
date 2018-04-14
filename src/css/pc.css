@@ -16,3 +16,12 @@
 .footer {
   text-align: center;
 }
+
+.register {
+  display: inline-block !important;
+  margin-left: 5px;
+}
+
+.padding {
+  padding: 0 10px !important;
+}
